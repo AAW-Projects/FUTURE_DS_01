@@ -173,12 +173,3 @@ These projects were created for **educational and portfolio purposes**.
 The marketing campaign dashboard uses a sample dataset for analysis. Any company names, logos, or branding included in the dashboard are used only to provide context for the analysis. These projects are **not affiliated with, endorsed by, or officially associated with any organization or brand**.
 
 ---
-
-## 👤 Author
-
-**Anzar Ali Warsi**
-
-MBA | Finance & Analytics Enthusiast
-
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 💻 GitHub: *(Add your GitHub profile)*
