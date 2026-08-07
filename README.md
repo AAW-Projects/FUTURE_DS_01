@@ -123,28 +123,6 @@ Future-Interns-Data-Science-Analytics/
 └── README.md
 ```
 
----
-
-# 📊 Dashboards
-
-### Task 1 – Online Retail Sales Dashboard
-
-*Add your dashboard screenshot here.*
-
----
-
-### Task 2 – Customer Churn Analysis Dashboard
-
-*Add your dashboard screenshot here.*
-
----
-
-### Task 3 – Marketing Campaign Performance Dashboard
-
-*Add your dashboard screenshot here.*
-
----
-
 # 🎯 Key Learnings
 
 Throughout these projects, I gained practical experience in:
